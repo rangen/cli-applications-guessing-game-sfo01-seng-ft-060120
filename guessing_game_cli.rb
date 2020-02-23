@@ -14,3 +14,5 @@ binding.pry
     puts "Sorry! The computer guessed #{secret_number}."
   end
 end
+
+run_guessing_game
