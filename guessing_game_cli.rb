@@ -11,5 +11,5 @@ def run_guessing_game
     return
   else
     puts "Sorry, the computer guessed #{secret_number}."
-  end    
+  end
 end
