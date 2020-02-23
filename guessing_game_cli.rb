@@ -13,5 +13,3 @@ def run_guessing_game
     puts "Sorry! The computer guessed #{secret_number}."
   end
 end
-
-run_guessing_game
